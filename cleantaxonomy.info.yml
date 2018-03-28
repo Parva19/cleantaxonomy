@@ -1,0 +1,10 @@
+name: Clean Taxonomy
+type: module
+description: 'Provides a ordered list of Taxonomy terms along with their vocabularies and number of nodes attached to them.'
+# core: 8.x
+
+# Information added by Drupal.org packaging script on 2018-03-14
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'cleantaxonomy'
+datestamp: 1521033784
